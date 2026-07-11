@@ -1,5 +1,12 @@
 # @dreki-gg/pi-lsp
 
+## [0.5.1](https://github.com/jalbarrang/pi-lsp/compare/v0.5.0...v0.5.1) (2026-07-11)
+
+
+### Bug Fixes
+
+* add files allowlist so the npm tarball ships only the extension ([#2](https://github.com/jalbarrang/pi-lsp/issues/2)) ([a7b7854](https://github.com/jalbarrang/pi-lsp/commit/a7b78543cb16cba1ba62c3e1c0fa88aea3bb0f50))
+
 ## [0.5.0](https://github.com/jalbarrang/pi-lsp/compare/v0.4.1...v0.5.0) (2026-07-11)
 
 
