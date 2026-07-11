@@ -1,5 +1,12 @@
 # @dreki-gg/pi-lsp
 
+## [0.5.0](https://github.com/jalbarrang/pi-lsp/compare/v0.4.1...v0.5.0) (2026-07-11)
+
+
+### Features
+
+* extract pi-lsp from dreki-gg/pi-extensions monorepo ([e91322c](https://github.com/jalbarrang/pi-lsp/commit/e91322c6afd55e20df2f28b06b3967eb13eaced1))
+
 ## 0.4.1
 
 ### Patch Changes
