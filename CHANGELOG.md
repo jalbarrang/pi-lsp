@@ -1,5 +1,12 @@
 # @dreki-gg/pi-lsp
 
+## [0.5.2](https://github.com/jalbarrang/pi-lsp/compare/v0.5.1...v0.5.2) (2026-07-12)
+
+
+### Bug Fixes
+
+* bump dependencies, keep TypeScript on 6.x ([#7](https://github.com/jalbarrang/pi-lsp/issues/7)) ([e709d73](https://github.com/jalbarrang/pi-lsp/commit/e709d73c4070a0258f033b5a2b0b5889dba65df3))
+
 ## [0.5.1](https://github.com/jalbarrang/pi-lsp/compare/v0.5.0...v0.5.1) (2026-07-11)
 
 
